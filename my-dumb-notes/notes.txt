@@ -1,0 +1,20 @@
+rust makes a simple promise: if your program passes the compiler's checks, it is free of undefined behavior.
+
+- dangling pointers
+- double-frees
+- null pointer dereferences
+
+q: what is actually caught at compile-time
+a: only what is described as undefined behavior
+
+meant as a solution to issues c and c++ programmers typically struggle with
+
+rust attempts to tame concurrency through another set of compile-time checks
+
+- mutexes
+- condition variables
+- channels
+- atomics
+- etc??
+
+
