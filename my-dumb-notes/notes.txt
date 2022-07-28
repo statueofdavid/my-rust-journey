@@ -17,4 +17,9 @@ rust attempts to tame concurrency through another set of compile-time checks
 - atomics
 - etc??
 
+interwebs rabbit holes
+----------------------
+1. lib.rs
+2. crates.io
+
 
